@@ -9,8 +9,8 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 * 💖 I’m interested in **HoYoverse, ANYCOLOR Inc., COVER Corp, and Post-Rock Music**
 
 ### 📮 Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[본인이메일]@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[본인아이디])
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[jy6572s]@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seojoonyoung])
 
 ### 🎓 Education
 * **2025.03 ~** : 인하대학교 디자인테크놀로지학과 (학사)
@@ -26,10 +26,10 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 
 ### 💻 대외 활동 (Experience)
 
-* **2025.05 ~** : **MOONG IT 벤처 연합**, 대외협력부 실무진
-* **2025.05 ~** : **디자인테크놀로지 학생회**, 기획부 차장
-* **2025.05** : **단편영화 "백조 (Ghost's Eye)"**, 제작/촬영팀
-* **2026.03 ~** : **INCOM (IT 학술 동아리)**, 회장
+* <strong>2025.05 ~</strong> : **MOONG IT 벤처 연합**, 대외협력부 실무진
+* <strong>2025.05 ~</strong> : **디자인테크놀로지 학생회**, 기획부 차장
+* <strong>2025.09 ~</strong> : **INCOM (IT 학술 동아리)**, 차기 회장
+* <strong>2025.11</strong> : **단편영화 "백조 (Ghost's Eye)"**, 제작/촬영팀
 
 ### 🛠️ 기술 스택 (Tech Stack)
 <div align="left">
