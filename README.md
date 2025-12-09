@@ -9,8 +9,8 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 * 💖 I’m interested in **HoYoverse, ANYCOLOR Inc., COVER Corp, and Post-Rock Music**
 
 ### 📮 Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[jy6572s]@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seojoonyoung])
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jy6572s@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/seojoonyoung)
 
 ### 🎓 Education
 * **2025.03 ~** : 인하대학교 디자인테크놀로지학과 (학사)
@@ -64,4 +64,4 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 | 2025.12 | **Rhythm Note** | C++ 기반 리듬게임 에디터<br>(기말 프로젝트) | **1인 개발** | C++ |
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인깃허브아이디]&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonyoungSeo&show_icons=true&theme=dark)
