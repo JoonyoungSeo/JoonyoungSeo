@@ -25,9 +25,9 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 | 2025.05 | 2025-1 Incometon | Meok-Keep-List (Food Sharing) | **Grand Prize (1st)** | [Link](#) |
 
 ### 💻 Experience
-* **2025.05 ~** : **MOONG IT Venture Alliance**, External Cooperation Manager
-* **2025.05 ~** : **Student Council (Design Tech)**, Deputy Planning Manager
-* **2025.09 ~** : **INCOM (IT Club)**, Incoming President
+* **2025.05 ~ ** : **MOONG IT Venture Alliance**, External Cooperation Manager
+* **2025.05 ~ ** : **Student Council (Design Tech)**, Deputy Planning Manager
+* **2025.09 ~ ** : **INCOM (IT Club)**, Incoming President
 * **2025.11** : **Film "Ghost's Eye"**, Production Team (Slate/Casting)
 
 ### 🛠️ Tech Stack
