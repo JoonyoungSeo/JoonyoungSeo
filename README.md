@@ -1,4 +1,6 @@
-# 👋 Hi there!
+# 👋 서준영 | Seo Joon Young
+
+---
 
 ### 🧐 About me
 I am a first-year **Design Technology** student at **Inha University**, passionate about **Game Development** and **Virtual Entertainment**.
