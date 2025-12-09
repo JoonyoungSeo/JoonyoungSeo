@@ -26,10 +26,10 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 
 ### 💻 대외 활동 (Experience)
 
+* <strong>2026.02 ~</strong> : **INCOM (IT 학술 동아리)**, 회장
 * <strong>2025.05 ~</strong> : **MOONG IT 벤처 연합**, 대외협력부 실무진
 * <strong>2025.05 ~</strong> : **디자인테크놀로지 학생회**, 기획부 차장
-* <strong>2025.09 ~</strong> : **INCOM (IT 학술 동아리)**, 차기 회장
-* <strong>2025.11</strong> : **단편영화 "백조 (Ghost's Eye)"**, 제작/촬영팀
+* <strong>2025.05</strong> : **단편영화 "백조 (Ghost's Eye)"**, 제작/촬영팀
 
 ### 🛠️ 기술 스택 (Tech Stack)
 <div align="left">
