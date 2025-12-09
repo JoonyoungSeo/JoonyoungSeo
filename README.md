@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-### 🧐 About me?
+### 🧐 About me
 I am a first-year **Design Technology** student at **Inha University**, passionate about **Game Development** and **Virtual Entertainment**.
 I enjoy exploring the essence of problems with strong intellectual curiosity and solving them through a systematic "Explore → Question → Solve" cycle.
 
@@ -13,24 +13,25 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[본인아이디])
 
 ### 🎓 Education
-* **2025.03 ~** : Inha University, Department of Design Technology (B.S.)
+* **2025.03 ~** : 인하대학교 디자인테크놀로지학과 (학사)
 
-### 🏆 Competitions & Awards
+### 🏆 수상 경력 (Awards)
 
-| Date | Competition | Topic | Award | Link |
+| 날짜 | 대회명 | 내용 | 수상 | 링크 |
 | :--- | :--- | :--- | :--- | :--- |
-| 2025.11 | 2025 INHA NEXT CAMPUS CHALLENGE | SpaceINHA (Campus Platform) | **Excellence Award (3rd)** | [Link](#) |
-| 2025.11 | AI Fusion Data Hackathon | Gen-AI Video Workflow | **3rd Place** | [Link](#) |
-| 2025.07 | 2025 ILOAD Global Hackathon | Used Car Export ERP | **Grand Prize (2nd)** | [Link](#) |
-| 2025.05 | 2025-1 Incometon | Meok-Keep-List (Food Sharing) | **Grand Prize (1st)** | [Link](#) |
+| 2025.11 | 2025 인하 넥스트 캠퍼스 챌린지 | SpaceINHA (교내 공간 예약) | **우수상 (SW중심대학사업단장상)** | [Link](#) |
+| 2025.11 | AI 융합 데이터 해커톤 | 생성형 AI 영상 제작 워크플로우 | **3위 (부산감성 리얼리티상)** | [Link](#) |
+| 2025.07 | 2025 ILOAD 글로벌 해커톤 | 중고차 수출 ERP 모듈 | **최우수상 (한국자동차산업조합장상)** | [Link](#) |
+| 2025.05 | 2025-1 인컴톤 | 먹킵리스트 (식재료 공유) | **최우수상 (SW중심대학사업단장상)** | [Link](#) |
 
-### 💻 Experience
-* **2025.05 ~ ** : **MOONG IT Venture Alliance**, External Cooperation Manager
-* **2025.05 ~ ** : **Student Council (Design Tech)**, Deputy Planning Manager
-* **2025.09 ~ ** : **INCOM (IT Club)**, Incoming President
-* **2025.11** : **Film "Ghost's Eye"**, Production Team (Slate/Casting)
+### 💻 대외 활동 (Experience)
 
-### 🛠️ Tech Stack
+* **2025.05 ~** : **MOONG IT 벤처 연합**, 대외협력부 실무진
+* **2025.05 ~** : **디자인테크놀로지 학생회**, 기획부 차장
+* **2025.05** : **단편영화 "백조 (Ghost's Eye)"**, 제작/촬영팀
+* **2026.03 ~** : **INCOM (IT 학술 동아리)**, 회장
+
+### 🛠️ 기술 스택 (Tech Stack)
 <div align="left">
 
 **Languages**
@@ -53,14 +54,14 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 
 </div>
 
-### 🚀 Projects
+### 🚀 프로젝트 (Projects)
 
-| Date | Project | Description | Role | Stack |
+| 날짜 | 프로젝트 | 설명 | 역할 | 스택 |
 | :--- | :--- | :--- | :--- | :--- |
-| 2025.09<br>~ 11 | **SpaceINHA** | Centralized Campus Space<br>Reservation Platform | **PM, UI/UX, FE** | Vue.js<br>Supabase |
-| 2025.06<br>~ 07 | **ILOAD ERP** | Used Car Export Contract<br>& Settlement Module | **PM** | Python<br>Odoo |
-| 2025.04<br>~ 05 | **Meok-Keep-List** | Food Ingredient Management<br>& Sharing Service | **Dev Lead, Design** | Flutter<br>Dart |
-| 2025.12 | **Rhythm Note** | Rhythm Game Editor<br>(Upcoming) | **Solo Dev** | C++ |
+| 2025.09<br>~ 11 | **SpaceINHA** | 교내 통합 공간 예약 플랫폼 | **PM, UI/UX, FE** | Vue.js<br>Supabase |
+| 2025.06<br>~ 07 | **ILOAD ERP** | 중고차 수출 계약 및 정산<br>자동화 모듈 | **PM** | Python<br>Odoo |
+| 2025.04<br>~ 05 | **먹킵리스트** | 유통기한 임박 식재료<br>관리 및 나눔 서비스 | **Dev Lead, Design** | Flutter<br>Dart |
+| 2025.12 | **Rhythm Note** | C++ 기반 리듬게임 에디터<br>(기말 프로젝트) | **1인 개발** | C++ |
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[JoonyoungSeo]&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인깃허브아이디]&show_icons=true&theme=dark)
