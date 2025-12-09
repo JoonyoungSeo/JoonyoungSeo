@@ -13,7 +13,7 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/seojoonyoung)
 
 ### 🎓 Education
-* **2025.03 ~** : 인하대학교 디자인테크놀로지학과 (학사)
+* <strong>2025.03 ~</strong> : 인하대학교 디자인테크놀로지학과 (학사)
 
 ### 🏆 수상 경력 (Awards)
 
@@ -43,12 +43,10 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 **Game Dev & Graphics**
 <br>
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 **Tools & Design**
 <br>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
