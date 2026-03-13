@@ -10,7 +10,7 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 
 ### 📮 Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jy6572s@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/seojoonyoung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seojoonyoung)
 
 ### 🎓 Education
 * <strong>2025.03 ~</strong> : 인하대학교 디자인테크놀로지학과 (학사)
