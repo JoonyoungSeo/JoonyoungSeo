@@ -56,7 +56,7 @@ I enjoy exploring the essence of problems with strong intellectual curiosity and
 
 | 날짜 | 프로젝트 | 설명 | 역할 | 스택 |
 | :--- | :--- | :--- | :--- | :--- |
-| 2025.12<br>~ 2026.01 | **SpaceINHA** | 교내 통합 공간 예약 플랫폼 | **PM, UI/UX, FE** | Vue.js<br>Supabase |
+| 2025.12<br>~ 2026.01 | **KickMate** | 시각장애인을 위한 AI 축구 음성 해설 서비스 | **PM, UI/UX** | React<br>Spring Boot<br>EXAONE |
 | 2025.09<br>~ 11 | **SpaceINHA** | 교내 통합 공간 예약 플랫폼 | **PM, UI/UX, FE** | Vue.js<br>Supabase |
 | 2025.06<br>~ 07 | **ILOAD ERP** | 중고차 수출 계약 및 정산<br>자동화 모듈 | **PM** | Python<br>Odoo |
 | 2025.04<br>~ 05 | **먹킵리스트** | 유통기한 임박 식재료<br>관리 및 나눔 서비스 | **Dev Lead, Design** | Flutter<br>Dart |
