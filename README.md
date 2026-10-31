@@ -6,7 +6,7 @@ I'm a Design Technology student at Inha University, minoring in Computer Science
 
 ### 🎓 Education
 
-- **Inha University** · B.A., Design Technology (major) and Computer Science and Engineering (minor) · 2025.03 –
+- **Inha University** · Bachelor's degree · Design Technology (major), Computer Science and Engineering (minor) · 2025.03 –
 
 ### 🚀 Projects
 
